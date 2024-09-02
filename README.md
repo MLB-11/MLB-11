@@ -6,7 +6,8 @@ I'm a beginner French full-stack developer and game developer, exploring the dig
 
    <p align="left">
       <a href="https://x.com/mlb__11">
-         <img alt="twitter follows" title="My Twitter" src="https://custom-icon-badges.demolab.com/badge/twitter?color=%2344aae0&label=TWITTER&logo=twitter&logoColor=white&style=for-the-badge&labelColor=4693bc"/></a> 
+         <img alt="twitter follows" title="My Twitter" src="https://custom-icon-badges.demolab.com/badge/twitter?color=%2344aae0&label=TWITTER&logoColor=white&style=for-the-badge&labelColor=4693bc"/></a> 
+      https://custom-icon-badges.demolab.com/badge/-My%20Repos-blue?style=for-the-badge&logoColor=white&logo=repo
       <a href="https://github.com/mlb-11?tab=followers">
          <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/mlb-11?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
       <a href="https://github.com/mlb-11?tab=repositories&sort=stargazers">
