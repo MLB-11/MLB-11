@@ -6,7 +6,7 @@ I'm a beginner French full-stack developer and game developer, exploring the dig
 
    <p align="left">
       <a href="https://x.com/mlb__11">
-         <img alt="twitter follows" title="My Twitter" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC2WHjPDvbE6O328n17ZGcfg?color=%23E05D44&label=TWITTER&logo=twitter&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
+         <img alt="twitter follows" title="My Twitter" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC2WHjPDvbE6O328n17ZGcfg?color=%2344aae0&label=TWITTER&logo=twitter&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
       <a href="https://ko-fi.com/mlb11">
          <img alt="Buy me a coffee" title="Buy me a coffee" src="https://custom-icon-badges.demolab.com/badge/-Buy_me_a_coffee-FF5E5B?style=for-the-badge&logo=kofi&logoColor=white"/></a>
       <a href="https://github.com/ForrestKnight?tab=followers">
