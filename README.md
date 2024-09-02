@@ -45,7 +45,7 @@ I'm a beginner French full-stack developer and game developer, exploring the dig
   <img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 </a>
 <a href="https://arc.net/" target="_blank">
-  <img align="left" alt="Arc" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Arc_%28browser%29_logo.svg/1200px-Arc_%28browser%29_logo.svg.png" />
+  <img align="left" alt="Arc"  style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Arc_%28browser%29_logo.svg/1200px-Arc_%28browser%29_logo.svg.png" />
 </a>
 <a href="https://github.com/yt-dlp/yt-dlp" target="_blank">
   <img align="left" alt="yt-dlp" width="30px" style="padding-right:10px;" src="https://avatars.githubusercontent.com/u/79589310?s=200&v=4" />
